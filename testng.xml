@@ -17,11 +17,11 @@
                     <include name="test2"/>
                 </methods>
             </class>
-<!--            <class name="com.autobots.testing.DataProviderDemo">-->
-<!--                <methods>-->
-<!--                    <include name="loginWithValidUsernameAndPassword"/>-->
-<!--                </methods>-->
-<!--            </class>-->
+            <class name="com.autobots.testing.DataProviderDemo">
+                <methods>
+                    <include name="loginWithValidUsernameAndPassword"/>
+                </methods>
+            </class>
         </classes>
     </test>
 </suite>
